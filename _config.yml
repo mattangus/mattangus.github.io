@@ -4,7 +4,7 @@ disqus_shortname: ngpy
 reading_time:     true
 words_per_minute: 200
 #url: file:///home/m2angus/mattangus.github.io/_site  # blank for local preview
-url: https://mattangus.github.io   # for production
+url: https://mattangus.github.io # for production
 header-img: images/homepage.jpg
 excerpt_separator: "<!--more-->"
 

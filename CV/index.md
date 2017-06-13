@@ -19,16 +19,16 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 
 <span style="color:{{ page.base-colour }}">Sept ’11 - April ’16</span> **Bachelor of Science in Computer Science**, *The University of Calgary*, Concentration inAlgorithms and Complexity Theory, Minor in Pure Mathematics.
 
-- Sought out Dr. Rob Kremer to collaboratively research ontology inference for a semanticknowledgebase where I decreased the runtime of our inference algorithm by 97% to achieve aruntime in O(xn).
+- Sought out Dr. Rob Kremer to collaboratively research ontology inference for a semantic knowledgebase where I decreased the runtime of our inference algorithm by 97% to achieve a runtime in O(x^n).
 
-- Two semester exchange at the University of Western Australia where I was able to grow bothpersonally and academically by seeing how people lived in the Asia-Paciﬁc region.
+- Two semester exchange at the University of Western Australia where I was able to grow both personally and academically by seeing how people lived in the Asia-Pacific region.
 
 ## Work Experience
 ---
 
 <span style="color:{{ page.base-colour }}">Jan ’15 - Aug ’16</span> **Application Developer**, *Canadian Natural Resources Limited*, Calgary.
 
-- Consulted on architecting the data and business layers of a responsibility management systemthat tracked responsibilities globally, that extracted a hierarchy from a relational database.{ Helped translate internal customer requirements into action items for our development team.{ Championed and implemented bug tracking best practices across our development team, previouslythere was none.
+- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database.{ Helped translate internal customer requirements into action items for our development team.{ Championed and implemented bug tracking best practices across our development team, previously there was none.
 
 <span style="color:{{ page.base-colour }}">May ’12 - Dec ’13</span> **Security Analyst**, *Canadian Natural Resources Limited*, Calgary.
 
@@ -76,19 +76,19 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 
 - Architected and implemented over 50% of the core system including the real-time image processorfor vehicle navigation.
 
-- Integrated a fuzzy logic controller with our systems data streams (GPS, Lidar, IMU) for real timedecision making.
+- Integrated a fuzzy logic controller with our systems data streams (GPS, Lidar, IMU) for real time decision making.
 
 <span style="color:{{ page.base-colour }}">2013 - 2016</span> **Club Executive**, *Autonomous Robotics Club*, The University of Calgary.
 
 - Co-managed ARC where I helped managed our budget and recruitment on campus.
 
-- Worked on a community outreach program to present our robot to middle school students tohelp gain interest in robotics and computer science.
+- Worked on a community outreach program to present our robot to middle school students to help gain interest in robotics and computer science.
 
-- Organized and managed ARC’s ﬁrst entry into the Intelligent Ground Vehicle Competition.
+- Organized and managed ARC’s first entry into the Intelligent Ground Vehicle Competition.
 
 <span style="color:{{ page.base-colour }}">2012 - 2013</span> **Software Developer**, *Autonomous Robotics Club*, The University of Calgary.
 
-- Experimented with various motion planning algorithms such as A* search based motion planner and the distance transform to ﬁnd open space.
+- Experimented with various motion planning algorithms such as A* search based motion planner and the distance transform to find open space.
 
 <span style="color:{{ page.base-colour }}">2012 - 2013</span> **Club Member**, *Problem Solving Club*, The University of Calgary.
 
