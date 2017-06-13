@@ -1,0 +1,16 @@
+# Menu navigation links
+
+- title:    Home
+  url:      /
+
+- title:    Research
+  url:      /research/
+
+- title:    CV
+  url:      /CV/
+
+- title:    ARC
+  url:      /ARC/
+
+- title:    About
+  url:      /about/
