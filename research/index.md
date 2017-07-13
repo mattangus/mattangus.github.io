@@ -14,12 +14,13 @@ My main research interest is in computer vision, specifically semantic segmentat
 
 Semantic segmentation is the task of taking an image and assigning each pixel a class. An example is shown below.
 
-<figure>
-	<img src="{{ site.url }}/images/research/" alt="Original">
-	<img src="{{ site.url }}/images/research/" alt="Segmented">
-</figure>
+**Original Image**
+![Original Image][original]{:class="center-block"}
+
+**Semantically Segmented Image**
+![Segmented Image][segmented]{:class="center-block"}
 
 State of the art algorithms rely on Convolutional Neural Networks (CNN).
 
-## Related Course Projects
-
+[original]: /images/research/input.jpg
+[segmented]: /images/research/segmented.png

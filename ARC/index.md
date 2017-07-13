@@ -63,8 +63,24 @@ right = b + a\cdot m
 \begin{align}
 m = b\cdot c
 \end{align}
-This leaves two constants to adjust. $$b$$ the base speed, and $$c$$ a multiplier. From our experiments the best values for these constants are $$b=0.35$$ and $$c=0.3$$. 
+This leaves two constants to adjust. $$b$$ the base speed, and $$c$$ a multiplier. From our experiments the best values for these constants are $$b=0.35$$ and $$c=0.3$$. Note that $$left,right \in [-1, 1]$$, they are a percentage forward/backward for the left and right wheels.
 
+## Camera
+
+### Calibration
+The camera took pictures at an angle to the ground; therefore all images need to be transformed to represent accurate distances in laser (real world) space. We used a checkerboard to aid in determining this transformation.
+
+### Lane Marking Detection
+Taurus used a predetermined filter to filter out grass, in CIE L*a*b* colour space. The image is then converted to a black and white image where white pixels indicate where the white lines are and everything else is black. The Hough Transform was then used to extract lines from the image. The lines were then transformed using a projective transformation, from the calibration, in order to convert the points from image space to laser space. These transfomed lines were then used as simulated lidar, for easy merging with the lidar data later.
+
+## Lane and Obstacle Processing
+Lidar was used to detect obsticles on the course. It would provide a 270 degree sweep of the local area. Both lane detection and Lidar produced distance and angle data sets. These two sets were then meshed together, by taking the minimum distance from each angle. Edges of objects are extended to account for the width of Taurus, allowing computations to be based on a point mass, rather than a rectangle. The extension process closes holes in dashed lines to accommodate for errors in the data. A $$50 \times 75$$ binary grid was populated with the merged Lidar data. $$1$$ represents free space and $$0$$ represents occupied or unknown space (space behind obsticles). The distance transform was then applied to the binary grid. The distance transform replaces every $$1$$ with the distance to the nearest $$0$$ ($$L_2$$ norm) Bellow is an example result from the distance transform. Blue is low and yellow is high.
+
+![Distance Transform][dist-trans]{:class="center-block"}
+
+The approximate maximums (near global maximums) were extracted from the distance transform heat map. From these a "best" free space direction was chosen based on angle to the waypoint. This is the input to the Free-Space fuzzy function.
+
+[dist-trans]: /images/ARC/Distance-Transform.png
 [near-far-func]: /images/ARC/near-far.png
 [free-func]: /images/ARC/free.png
 [target-func]: /images/ARC/target.png
