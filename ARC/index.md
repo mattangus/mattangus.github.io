@@ -74,7 +74,7 @@ The video below was one of our best runs. The dead end was the tricky part to ge
 </div>
 
 <script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
 </script>
 
 [near-far-func]: /images/ARC/near-far.png
