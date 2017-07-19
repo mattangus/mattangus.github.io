@@ -65,6 +65,18 @@ m = b\cdot c
 \end{align}
 This leaves two constants to adjust. $$b$$ the base speed, and $$c$$ a multiplier. From our experiments the best values for these constants are $$b=0.35$$ and $$c=0.3$$. 
 
+## Sample Run
+
+The video below was one of our best runs. The dead end was the tricky part to get around. Since the motors are so far forward, turning causes the back to swing around.
+
+<div class="embed-responsive embed-responsive-16by9 col-xs-12 text-center">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fuofcrobotics%2Fvideos%2F1143085305747953%2F&show_text=0&width=560" width="560" height="322" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 [near-far-func]: /images/ARC/near-far.png
 [free-func]: /images/ARC/free.png
 [target-func]: /images/ARC/target.png
