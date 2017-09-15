@@ -14,3 +14,10 @@ If you wish to use the theme of this website, please follow the guidelines below
 6. Publish your website.
 
 **PLEASE DO NOT PUBLISH YOUR WEBSITE BEFORE YOU REMOVE ALL COPYRIGHT MATERIAL!**
+
+## Running the server
+```
+bundle exec jekyll build
+
+bundle exec jekyll serve
+```
