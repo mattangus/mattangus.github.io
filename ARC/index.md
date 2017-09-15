@@ -81,6 +81,19 @@ Lidar was used to detect obsticles on the course. It would provide a 270 degree 
 The approximate maximums (near global maximums) were extracted from the distance transform heat map. From these a "best" free space direction was chosen based on angle to the waypoint. This is the input to the Free-Space fuzzy function.
 
 [dist-trans]: /images/ARC/Distance-Transform.png
+=======
+## Sample Run
+
+The video below was one of our best runs. The dead end was the tricky part to get around. Since the motors are so far forward, turning causes the back to swing around.
+
+<div class="embed-responsive embed-responsive-16by9 col-xs-12 text-center">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fuofcrobotics%2Fvideos%2F1143085305747953%2F&show_text=0&width=560" width="560" height="322" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+</script>
+
 [near-far-func]: /images/ARC/near-far.png
 [free-func]: /images/ARC/free.png
 [target-func]: /images/ARC/target.png

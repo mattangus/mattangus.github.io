@@ -74,7 +74,7 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 ---
 <span style="color:{{ page.base-colour }}">2013 - 2016</span> **Lead Software Developer**, *Autonomous Robotics Club*, The University of Calgary.
 
-- Architected and implemented over 50% of the core system including the real-time image processorfor vehicle navigation.
+- Architected and implemented over 50% of the core system including the real-time image processor for vehicle navigation.
 
 - Integrated a fuzzy logic controller with our systems data streams (GPS, Lidar, IMU) for real time decision making.
 
