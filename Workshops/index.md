@@ -33,4 +33,4 @@ The [GPU](https://github.com/mattangus/TF-Custom-Op-Workshop/tree/gpu) branch is
 
 # Robotics Community Engagement
 
-While in the [Autonomous Robotics Club]({{ site.url }}/ARC) The club executives, myself and Sam, presented at a Jr. high school in Calgary. The target audience was grad 7-9. The purpose of the talk was to increase interest in robotics. The slides for this talk can be found [here]({{ site.url }}/downloads/Jr_High_Presentation.pptx).
+While in the [Autonomous Robotics Club]({{ site.url }}/ARC) The club executives, myself and Sam, presented at a Jr. high school in Calgary, St. Martha Catholic School. The target audience was grad 7-9. The purpose of the talk was to increase interest in robotics. The slides for this talk can be found [here]({{ site.url }}/downloads/Jr_High_Presentation.pptx).
