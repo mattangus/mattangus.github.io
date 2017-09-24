@@ -9,11 +9,11 @@ modified: 2017-04-07
 
 # Creating Custom Operations in Tensorflow
 
-This workshop was hosted at the University of Waterloo. I hosted it as part of the course "Autonomous Driving Perception".
+I hosted this workshop at the University of Waterloo, as part of the course "Autonomous Driving Perception".
 
 The workshop was split into 5 parts. Each of those stages can be found on a different branch of the [github page](https://github.com/mattangus/TF-Custom-Op-Workshop). The slides for this workshop can be dowloaded [here]({{ site.url }}/downloads/CustomOperations.pdf).
 
-Unfortunitely the session was not recorded and the slides were designed to be an aid, not to stand alone.
+Unfortunately, the session was not recorded. The slides were designed to be an aid, not to stand alone.
 
 ### Skeleton
 
@@ -33,4 +33,4 @@ The [GPU](https://github.com/mattangus/TF-Custom-Op-Workshop/tree/gpu) branch is
 
 # Robotics Community Engagement
 
-While in the [Autonomous Robotics Club]({{ site.url }}/ARC) The club executives, myself and Sam, presented at a Jr. high school in Calgary, St. Martha Catholic School. The target audience was grad 7-9. The purpose of the talk was to increase interest in robotics. The slides for this talk can be found [here]({{ site.url }}/downloads/Jr_High_Presentation.pptx).
+While in the [Autonomous Robotics Club]({{ site.url }}/ARC) the club executives, myself and Sam, presented at a Jr. high school in Calgary, St. Martha Catholic School. The target audience was grades 7-9. The purpose of the talk was to increase interest in robotics. The slides for this talk can be found [here]({{ site.url }}/downloads/Jr_High_Presentation.pptx).

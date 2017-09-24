@@ -15,20 +15,20 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 <span style="color:{{ page.base-colour }}">Sept ’16 - Present</span> **Master of Mathematics in Computer Science**, *The University of Waterloo*.
 
 - Focus on the application of machine learning for autonomous driving
-- Developing a pedestrian simulator that teaches a self driving controller how to react to pedestrians.{ In the early stages of collaboration with the automotive industry.
+- Developing a pedestrian simulator that teaches a self driving controller how to react to pedestrians. In the early stages of collaboration with the automotive industry.
 
-<span style="color:{{ page.base-colour }}">Sept ’11 - April ’16</span> **Bachelor of Science in Computer Science**, *The University of Calgary*, Concentration inAlgorithms and Complexity Theory, Minor in Pure Mathematics.
+<span style="color:{{ page.base-colour }}">Sept ’11 - April ’16</span> **Bachelor of Science in Computer Science**, *The University of Calgary*, Minor in Pure Mathematics, Concentration in Algorithms and Complexity Theory.
 
-- Sought out Dr. Rob Kremer to collaboratively research ontology inference for a semantic knowledgebase where I decreased the runtime of our inference algorithm by 97% to achieve a runtime in O(x^n).
+- Sought out Dr. Rob Kremer to collaboratively research ontology inference for a semantic knowledgebase where I decreased the runtime of our inference algorithm by 97% to achieve a runtime in $$O(x^n)$$.
 
-- Two semester exchange at the University of Western Australia where I was able to grow both personally and academically by seeing how people lived in the Asia-Pacific region.
+- Two semester exchange at the University of Western Australia where I was able to grow personally, academically and culturally by studying and traveling in Australia and surrounding countries.
 
 ## Work Experience
 ---
 
 <span style="color:{{ page.base-colour }}">Jan ’15 - Aug ’16</span> **Application Developer**, *Canadian Natural Resources Limited*, Calgary.
 
-- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database.{ Helped translate internal customer requirements into action items for our development team.{ Championed and implemented bug tracking best practices across our development team, previously there was none.
+- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database. Helped translate internal customer requirements into action items for our development team. Championed and implemented bug tracking best practices across our development team, previously there was none.
 
 <span style="color:{{ page.base-colour }}">May ’12 - Dec ’13</span> **Security Analyst**, *Canadian Natural Resources Limited*, Calgary.
 

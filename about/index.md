@@ -8,9 +8,9 @@ modified: 2017-06-07
 
 ## About Me
 
-**Matt Angus** is a masters student studying Computer Science at the University of Waterloo. He completed his Bachelors in Computer Science at the University of Calgary.
+I am a masters student studying Computer Science at the University of Waterloo. I completed my Bachelors in Computer Science at the University of Calgary.
 
-My interest in autonomous driving started with the [Autonomous Robotics Club](https://www.facebook.com/uofcrobotics/) (ARC) at the University of Calgary. The purpose of the club was to create an autonomous robot that was capable of navigating an obstacle course at the [Intelligent Ground Vehicle Competition](http://www.igvc.org/). This goal was achieved, and we became the [rookies of the year](http://www.igvc.org/results/r2016.pdf).
+My interest in autonomous driving started with the [Autonomous Robotics Club](https://www.facebook.com/uofcrobotics/) (ARC) at the University of Calgary. The purpose of the club was to create an autonomous robot that was capable of navigating an obstacle course at the [Intelligent Ground Vehicle Competition](http://www.igvc.org/). We achieved our goal and became the [rookies of the year](http://www.igvc.org/results/r2016.pdf).
 
 **CV - Resume**
 

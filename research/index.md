@@ -12,7 +12,7 @@ My main research interest is in computer vision, specifically semantic segmentat
 ## Semantic Segmentation
 -----
 
-Semantic segmentation is the task of taking an image and assigning each pixel a class. An example is shown below.
+Semantic segmentation is the task of taking an image and assigning a class to each pixel. An example is shown below.
 
 **Original Image**
 ![Original Image][original]{:class="center-block"}
