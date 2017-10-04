@@ -14,8 +14,11 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 ---
 <span style="color:{{ page.base-colour }}">Sept ’16 - Present</span> **Master of Mathematics in Computer Science**, *The University of Waterloo*.
 
-- Focus on the application of machine learning for autonomous driving
-- Developing a pedestrian simulator that teaches a self driving controller how to react to pedestrians. In the early stages of collaboration with the automotive industry.
+- Semantic segmentation for scene understanding.
+
+- Wrote custom TensorFlow operation with CUDA GPU implementation.
+
+- Multiple courses and course projects in machine learning.
 
 <span style="color:{{ page.base-colour }}">Sept ’11 - April ’16</span> **Bachelor of Science in Computer Science**, *The University of Calgary*, Minor in Pure Mathematics, Concentration in Algorithms and Complexity Theory.
 
