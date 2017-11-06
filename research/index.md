@@ -25,6 +25,7 @@ State of the art algorithms rely on Convolutional Neural Networks (CNN).
 *this section is under construction*
 
 ## Publications
+-----
 
 <div class='panel-pub'>
 <ol>
