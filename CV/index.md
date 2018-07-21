@@ -29,9 +29,21 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 ## Work Experience
 ---
 
+<span style="color:{{ page.base-colour }}">May '18 -  Present</span> **Research Engineer Intern**, *NXP Semiconductors*, Ottawa
+
+- Extended state of the art world models for autonomous driving.
+
+- Implemented and trained deep learning models, such as variational auto-encoders and RNNs, in TensorFlow using the Carla driving simulator.
+
+- Researched independently, providing key milestones to co-workers.
+
 <span style="color:{{ page.base-colour }}">Jan ’15 - Aug ’16</span> **Application Developer**, *Canadian Natural Resources Limited*, Calgary.
 
-- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database. Helped translate internal customer requirements into action items for our development team. Championed and implemented bug tracking best practices across our development team, previously there was none.
+- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database.
+
+- Helped translate internal customer requirements into action items for our development team.
+
+- Championed and implemented bug tracking best practices across our development team, previously there was none.
 
 <span style="color:{{ page.base-colour }}">May ’12 - Dec ’13</span> **Security Analyst**, *Canadian Natural Resources Limited*, Calgary.
 

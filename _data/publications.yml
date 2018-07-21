@@ -21,3 +21,32 @@
   type: conference paper
   DOI: 10.1109/ITSC.2017.8317731
   fulltext:
+- title: 'Unlimited Road-scene Synthetic Annotation (URSA) Dataset'
+  volume: 'Accepted'
+  issue: ''
+  page: ''
+  year: 2018
+  author:
+  - given: M.
+    family: Angus
+  - given: M.
+    family: ElBalkini
+  - given: S.
+    family: Khan
+  - given: A.
+    family: Harakeh
+  - given: O.
+    family: Andrienko
+  - given: C.
+    family: Reading
+  - given: S.
+    family: Waslander
+  - given: K.
+    family: Czarnecki
+  journal:
+    fullname: IEEE 21st International Conference on Intelligent Transportation Systems
+    abbreviation: IEEE 21st ITSC
+  URL: "https://arxiv.org/abs/1807.06056"
+  type: conference paper
+  DOI:
+  fulltext:
