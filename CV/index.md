@@ -29,7 +29,7 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 ## Work Experience
 ---
 
-<span style="color:{{ page.base-colour }}">May '18 -  Present</span> **Research Engineer Intern**, *NXP Semiconductors*, Ottawa
+<span style="color:{{ page.base-colour }}">May '18 -  Present</span> **Research Engineer**, *NXP Semiconductors*, Ottawa
 
 - Extended state of the art world models for autonomous driving.
 
