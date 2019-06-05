@@ -12,15 +12,17 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 
 ## Education
 ---
-<span style="color:{{ page.base-colour }}">Sept ’16 - Present</span> **Master of Mathematics in Computer Science**, *The University of Waterloo*.
+<span style="color:{{ page.base-colour }}">Sept ’16 - Present</span> **Master of Mathematics in Computer Science**, *The University of Waterloo*. -- 3.98/4 Major GPA
 
-- Semantic segmentation for scene understanding.
+- Semantic segmentation and pixel-level out-of-distribution detection.
 
-- Wrote custom TensorFlow operation with CUDA GPU implementation.
+- Wrote custom TensorFlow unpool operation with CUDA GPU implementation, with $2\times$ speed up at inference time.
+
+- Created largest public synthetic segmentation dataset to date using GTAV (1 million+ images).
 
 - Multiple courses and course projects in machine learning.
 
-<span style="color:{{ page.base-colour }}">Sept ’11 - April ’16</span> **Bachelor of Science in Computer Science**, *The University of Calgary*, Minor in Pure Mathematics, Concentration in Algorithms and Complexity Theory.
+<span style="color:{{ page.base-colour }}">Sept ’11 - April ’16</span> **Bachelor of Science in Computer Science**, *The University of Calgary*, Minor in Pure Mathematics, Concentration in Algorithms and Complexity Theory. -- 3.68/4 Major GPA
 
 - Sought out Dr. Rob Kremer to collaboratively research ontology inference for a semantic knowledgebase where I decreased the runtime of our inference algorithm by 97% to achieve a runtime in $$O(x^n)$$.
 
@@ -47,11 +49,9 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 
 <span style="color:{{ page.base-colour }}">May ’12 - Dec ’13</span> **Security Analyst**, *Canadian Natural Resources Limited*, Calgary.
 
-- Created small scripts to replace manual tasks saving our team many hours on a weekly basis.{ Worked within our company’s workﬂow to deliver access to various applications.
+- Took initiative and automated various manual processes through the use of scripts, saving the team about 3 hours per week.
 
-- Helped external vendors manage access to our environment through FTP.
-
-- Removed application and network access for employees that had left the company.
+- Performed within the company's workflow to deliver access to various applications.
 
 ## Awards and Competitions
 ---
@@ -85,7 +85,26 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 
 <span style="color:{{ page.base-colour }}">Advanced</span> Java, Matlab, SQL, C#
 
-## Co-Curricular Activities
+## UCalgary Autonomous Robotics Club
+<span style="color:{{ page.base-colour }}">2013 - 2016</span> **Lead Software Developer**
+
+- Architected and implemented over 50% of the core system includingthe real-time image processor for vehicle navigation.
+
+- Integrated fuzzy controller with systems data streams (GPS, Lidar, IMU)
+
+<span style="color:{{ page.base-colour }}">2012 - 2013</span> **Software Developer**
+
+- Experimented with motion planning algorithms such as A* search basedmotion planner and the distance transform to find open space.
+
+<span style="color:{{ page.base-colour }}">2013 - 2016</span> **Club Executive**
+
+- Co-managed ARC where I helped managed our budget and recruitment on campus.
+
+- Worked on a community outreach program to present our robot to middle school students to help gain interest in robotics and computer science.
+
+- Organized and managed ARC’s first entry into the Intelligent Ground Vehicle Competition.
+
+<!-- ## Co-Curricular Activities
 ---
 <span style="color:{{ page.base-colour }}">2013 - 2016</span> **Lead Software Developer**, *Autonomous Robotics Club*, The University of Calgary.
 
@@ -107,17 +126,15 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 
 <span style="color:{{ page.base-colour }}">2012 - 2013</span> **Club Member**, *Problem Solving Club*, The University of Calgary.
 
-- Analyzed small problems sets to learn when to use various data structures and algorithms.
+- Analyzed small problems sets to learn when to use various data structures and algorithms. -->
 
 ## Interests
 ---
-- Rock Climbing
-
-- Snowboarding
-
-- Hiking
+- Tough Mudder
 
 - Raspberry Pi
+
+- Rock Climbing
 
 <div markdown="0">
     <br><br>
