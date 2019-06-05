@@ -1,26 +1,3 @@
-- title: 'Trajectory Prediction of Traffic Agents at Urban Intersections Through Learned Interactions'
-  volume: 'Accepted'
-  issue: ''
-  page: ''
-  year: 2017
-  author:
-  - given: A.
-    family: Sarkar
-  - given: K.
-    family: Czarnecki
-  - given: M.
-    family: Angus
-  - given: C.
-    family: Li
-  - given: S.
-    family: Waslander
-  journal:
-    fullname: IEEE 20th International Conference on Intelligent Transportation Systems
-    abbreviation: IEEE 20th ITSC
-  URL: "https://ieeexplore.ieee.org/document/8317731/"
-  type: conference paper
-  DOI: 10.1109/ITSC.2017.8317731
-  fulltext:
 - title: 'Unlimited Road-scene Synthetic Annotation (URSA) Dataset'
   volume: 'Accepted'
   issue: ''
@@ -49,4 +26,27 @@
   URL: "https://arxiv.org/abs/1807.06056"
   type: conference paper
   DOI:
+  fulltext:
+- title: 'Trajectory Prediction of Traffic Agents at Urban Intersections Through Learned Interactions'
+  volume: 'Accepted'
+  issue: ''
+  page: ''
+  year: 2017
+  author:
+  - given: A.
+    family: Sarkar
+  - given: K.
+    family: Czarnecki
+  - given: M.
+    family: Angus
+  - given: C.
+    family: Li
+  - given: S.
+    family: Waslander
+  journal:
+    fullname: IEEE 20th International Conference on Intelligent Transportation Systems
+    abbreviation: IEEE 20th ITSC
+  URL: "https://ieeexplore.ieee.org/document/8317731/"
+  type: conference paper
+  DOI: 10.1109/ITSC.2017.8317731
   fulltext:
