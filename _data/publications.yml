@@ -1,29 +1,52 @@
 - title: 'Trajectory Prediction of Traffic Agents at Urban Intersections Through Learned Interactions'
-  volume:
-  issue:
-  page:
+  volume: 'Accepted'
+  issue: ''
+  page: ''
   year: 2017
   author:
-  - given: Atri
-    given_initial:
+  - given: A.
     family: Sarkar
-  - given: Krzysztof 
-    given_initial:
+  - given: K.
     family: Czarnecki
-  - given: Matt
-    given_initial:
+  - given: M.
     family: Angus
-  - given: Changjian
-    given_initial:
+  - given: C.
     family: Li
-  - given: Steven
-    given_initial:
+  - given: S.
     family: Waslander
   journal:
-    abbreviation: IEEE ITSC
-  URL: 
-  type: article
-  DOI: 
+    fullname: IEEE 20th International Conference on Intelligent Transportation Systems
+    abbreviation: IEEE 20th ITSC
+  URL: "https://ieeexplore.ieee.org/document/8317731/"
+  type: conference paper
+  DOI: 10.1109/ITSC.2017.8317731
   fulltext:
-  note: Accepted, to be published
-  language: english
+- title: 'Unlimited Road-scene Synthetic Annotation (URSA) Dataset'
+  volume: 'Accepted'
+  issue: ''
+  page: ''
+  year: 2018
+  author:
+  - given: M.
+    family: Angus
+  - given: M.
+    family: ElBalkini
+  - given: S.
+    family: Khan
+  - given: A.
+    family: Harakeh
+  - given: O.
+    family: Andrienko
+  - given: C.
+    family: Reading
+  - given: S.
+    family: Waslander
+  - given: K.
+    family: Czarnecki
+  journal:
+    fullname: IEEE 21st International Conference on Intelligent Transportation Systems
+    abbreviation: IEEE 21st ITSC
+  URL: "https://arxiv.org/abs/1807.06056"
+  type: conference paper
+  DOI:
+  fulltext:
