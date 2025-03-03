@@ -1,25 +1,59 @@
-- title: 'Unlimited Road-scene Synthetic Annotation (URSA) Dataset'
-  volume: 'Accepted'
-  issue: ''
-  page: ''
+- title: Towards Pixel-Level OOD Detection for Semantic Segmentation
+  volume: "Thesis"
+  issue: ""
+  page: ""
+  year: 2019
+  author:
+    - given: M.
+      family: Angus
+  journal:
+    fullname:
+    abbreviation:
+  URL: "https://uwspace.uwaterloo.ca/items/593a5994-cb8a-4f99-8006-fa95496a1407"
+  type: pre print
+  DOI:
+  fulltext:
+- title: Efficacy of pixel-level OOD detection for semantic segmentation
+  volume: "Preprint"
+  issue: ""
+  page: ""
   year: 2018
   author:
-  - given: M.
-    family: Angus
-  - given: M.
-    family: ElBalkini
-  - given: S.
-    family: Khan
-  - given: A.
-    family: Harakeh
-  - given: O.
-    family: Andrienko
-  - given: C.
-    family: Reading
-  - given: S.
-    family: Waslander
-  - given: K.
-    family: Czarnecki
+    - given: M.
+      family: Angus
+    - given: K.
+      family: Czarnecki
+    - given: R.
+      family: Salay
+  journal:
+    fullname: arXiv Preprint
+    abbreviation:
+  URL: "https://arxiv.org/abs/1911.02897"
+  type: pre print
+  DOI:
+  fulltext:
+- title: "Unlimited Road-scene Synthetic Annotation (URSA) Dataset"
+  volume: "Accepted"
+  issue: ""
+  page: ""
+  year: 2018
+  author:
+    - given: M.
+      family: Angus
+    - given: M.
+      family: ElBalkini
+    - given: S.
+      family: Khan
+    - given: A.
+      family: Harakeh
+    - given: O.
+      family: Andrienko
+    - given: C.
+      family: Reading
+    - given: S.
+      family: Waslander
+    - given: K.
+      family: Czarnecki
   journal:
     fullname: IEEE 21st International Conference on Intelligent Transportation Systems
     abbreviation: IEEE 21st ITSC
@@ -27,22 +61,22 @@
   type: conference paper
   DOI:
   fulltext:
-- title: 'Trajectory Prediction of Traffic Agents at Urban Intersections Through Learned Interactions'
-  volume: 'Accepted'
-  issue: ''
-  page: ''
+- title: "Trajectory Prediction of Traffic Agents at Urban Intersections Through Learned Interactions"
+  volume: "Accepted"
+  issue: ""
+  page: ""
   year: 2017
   author:
-  - given: A.
-    family: Sarkar
-  - given: K.
-    family: Czarnecki
-  - given: M.
-    family: Angus
-  - given: C.
-    family: Li
-  - given: S.
-    family: Waslander
+    - given: A.
+      family: Sarkar
+    - given: K.
+      family: Czarnecki
+    - given: M.
+      family: Angus
+    - given: C.
+      family: Li
+    - given: S.
+      family: Waslander
   journal:
     fullname: IEEE 20th International Conference on Intelligent Transportation Systems
     abbreviation: IEEE 20th ITSC

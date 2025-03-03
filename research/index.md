@@ -46,8 +46,7 @@ State of the art algorithms rely on Convolutional Neural Networks (CNN).
     <div class="pubinfo">
     <span class="source">{{ article.journal.abbreviation }} </span>
     <span class="year">{{ article.year }}, </span>
-    <span class="volume">{{ article.volume }}, </span>
-    <span class="page">{{ article.page }}.</span>
+    <span class="volume">{{ article.volume }}. </span>
     </div>
     <div class="url">
         <a href="{{ article.URL }}">{{ article.URL }}</a>

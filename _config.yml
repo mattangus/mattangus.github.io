@@ -1,7 +1,7 @@
-title:            Matt Angus
-description:      "Machine Learning Masters student"
+title: Matt Angus
+description: "Machine Learning Masters student"
 disqus_shortname: ngpy
-reading_time:     true
+reading_time: true
 words_per_minute: 200
 #url:  # blank for local preview
 url: https://mattangus.github.io # for production
@@ -10,10 +10,10 @@ excerpt_separator: "<!--more-->"
 
 # Owner/author information
 owner:
-  name:           Matt Angus
-  avatar:         avatar.jpg
-  bio:            "Machine Learning Masters student"
-  email:          m2angus@gsd.uwaterloo.ca
+  name: Matt Angus
+  avatar: avatar.jpg
+  bio: "Machine Learning Masters student"
+  email: #m2angus@gsd.uwaterloo.ca
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -37,10 +37,10 @@ background:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Toronto
-future:      true
+timezone: America/Toronto
+future: true
 highlighter: rouge
-markdown:    kramdown
+markdown: kramdown
 gems:
   - jekyll-sitemap
 sass:
@@ -48,7 +48,7 @@ sass:
   style: compressed
 
 # http://jekyllrb.com/docs/permalinks/
-permalink:   /:year/:month/:title  #/:categories/:title/
+permalink: /:year/:month/:title #/:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
@@ -72,4 +72,26 @@ kramdown:
   #   coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude:
+  [
+    "lib",
+    "config.rb",
+    "Capfile",
+    "config",
+    "Gemfile",
+    "Gemfile.lock",
+    "README.md",
+    "LICENSE",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "*.sublime-project",
+    "*.sublime-workspace",
+    "test",
+    "spec",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+  ]

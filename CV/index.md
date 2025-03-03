@@ -8,15 +8,61 @@ base-colour: CornflowerBlue
 ---
 
 # Matthew Angus
-I am an enthusiastic and hardworking person who has been responsible for developing innovative technologies in both my academic and professional work. I am interested in developing new, exciting, or even radical ideas that have the potential to shape the future of how people interact with technology.
+#### Bringing research into production
+
+## Work Experience
+---
+
+<span style="color:{{ page.base-colour }}">Feb '24 - Present</span> **Principal Computer Vision Engineer**, *Humanising Autonomy*, London UK
+
+- Regularly guided the business with technology decisions, such as client-facing feature deprecation strategy
+- Productionised multi-task learning training, testings, model conversion, and model release
+- Created forward collision warning evaluation, and metrics tracking
+- Transitioned from GOCD to GitHub actions and Championed adoption of Conan
+- "Innovation day" projects widely used. For example, automated SDK python bindings and camera calibration web-app
+
+<span style="color:{{ page.base-colour }}">Oct '22 - Feb '24</span> **Senior Computer Vision Engineer**, *Humanising Autonomy*, London UK
+
+- Architected MLOps workflow from the ground up, automating reporting and
+- Built a multi-task learning framework, and trained Object detection, lane detection, and camera obstruction tasks jointly
+- Contributed to production C++ codebase, such as implementing an omnidirectional camera model
+- Led team of one mid and two junior level engineers to overhaul the company's MLOps
+- Automated the creation of a synthetic collision dataset with 300 videos from 20 scenarios dataset using CARLA simulator
+
+<span style="color:{{ page.base-colour }}">Jan '20 - Feb '22</span> **Computer Vision Engineer**, *Humanising Autonomy*, London UK
+
+- Training YOLO object detection models with Darknet, writing custom augmentation and LR schedules in C++
+- Leveraged open source scene reconstruction libraries combined with semantic segmentation to generate and label maps
+
+<span style="color:{{ page.base-colour }}">May '18 -  Aug '18</span> **Research Engineer**, *NXP Semiconductors*, Ottawa Canada
+
+- Extended state of the art world models for autonomous driving.
+
+- Implemented and trained deep learning models, such as variational auto-encoders and RNNs, in TensorFlow using the Carla driving simulator.
+
+- Researched independently, providing key milestones to co-workers.
+
+<span style="color:{{ page.base-colour }}">Jan ’15 - Aug ’16</span> **Application Developer**, *Canadian Natural Resources Limited*, Calgary Canada
+
+- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database.
+
+- Helped translate internal customer requirements into action items for our development team.
+
+- Championed and implemented bug tracking best practices across our development team, previously there was none.
+
+<span style="color:{{ page.base-colour }}">May ’12 - Dec ’13</span> **Security Analyst**, *Canadian Natural Resources Limited*, Calgary Canada
+
+- Took initiative and automated various manual processes through the use of scripts, saving the team about 3 hours per week.
+
+- Performed within the company's workflow to deliver access to various applications.
 
 ## Education
 ---
-<span style="color:{{ page.base-colour }}">Sept ’16 - Present</span> **Master of Mathematics in Computer Science**, *The University of Waterloo*. -- 3.98/4 Major GPA
+<span style="color:{{ page.base-colour }}">Sept '16 - July '19</span> **Master of Mathematics in Computer Science**, *The University of Waterloo*. -- 3.98/4 Major GPA
 
 - Semantic segmentation and pixel-level out-of-distribution detection.
 
-- Wrote custom TensorFlow unpool operation with CUDA GPU implementation, with $2\times$ speed up at inference time.
+- Wrote custom TensorFlow unpool operation with CUDA GPU implementation, with $$2\times$$ speed up at inference time.
 
 - Created largest public synthetic segmentation dataset to date using GTAV (1 million+ images).
 
@@ -27,31 +73,6 @@ I am an enthusiastic and hardworking person who has been responsible for develop
 - Sought out Dr. Rob Kremer to collaboratively research ontology inference for a semantic knowledgebase where I decreased the runtime of our inference algorithm by 97% to achieve a runtime in $$O(x^n)$$.
 
 - Two semester exchange at the University of Western Australia where I was able to grow personally, academically and culturally by studying and traveling in Australia and surrounding countries.
-
-## Work Experience
----
-
-<span style="color:{{ page.base-colour }}">May '18 -  Present</span> **Research Engineer**, *NXP Semiconductors*, Ottawa
-
-- Extended state of the art world models for autonomous driving.
-
-- Implemented and trained deep learning models, such as variational auto-encoders and RNNs, in TensorFlow using the Carla driving simulator.
-
-- Researched independently, providing key milestones to co-workers.
-
-<span style="color:{{ page.base-colour }}">Jan ’15 - Aug ’16</span> **Application Developer**, *Canadian Natural Resources Limited*, Calgary.
-
-- Consulted on architecting the data and business layers of a responsibility management system that tracked responsibilities globally, that extracted a hierarchy from a relational database.
-
-- Helped translate internal customer requirements into action items for our development team.
-
-- Championed and implemented bug tracking best practices across our development team, previously there was none.
-
-<span style="color:{{ page.base-colour }}">May ’12 - Dec ’13</span> **Security Analyst**, *Canadian Natural Resources Limited*, Calgary.
-
-- Took initiative and automated various manual processes through the use of scripts, saving the team about 3 hours per week.
-
-- Performed within the company's workflow to deliver access to various applications.
 
 ## Awards and Competitions
 ---

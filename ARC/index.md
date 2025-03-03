@@ -85,7 +85,11 @@ The approximate maximums (near global maximums) were extracted from the distance
 The video below was one of our best runs. The dead end was the hardest part of the course. Since the motors are so far forward, the back of the robot swings while turning.
 
 <div class="embed-responsive embed-responsive-16by9 col-xs-12 text-center">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fuofcrobotics%2Fvideos%2F1143085305747953%2F&show_text=0&width=560" width="560" height="322" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<video width="320" height="240" controls>
+  <source src="/images/ARC-North-Run.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video> 
 </div>
 
 <script type="text/javascript" async
